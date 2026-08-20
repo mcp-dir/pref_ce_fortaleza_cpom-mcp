@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/pref_ce_fortaleza_cpom-mcp",
+  "title": "Prefeitura CE Fortaleza: CPOM",
+  "description": "Prefeitura CE Fortaleza: CPOM, official-source lookup. Platform-hosted, pay per query with prepaid c",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/pref_ce_fortaleza_cpom-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_pref_ce_fortaleza_cpom"
+    }
+  ]
+}
